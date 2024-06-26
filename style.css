@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.choices button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+}
+.result {
+    font-size: 24px;
+    margin-top: 20px;
+}
